@@ -1,2 +1,3 @@
 # noise
-# this is a test reade lorem ipsum yadda yadda yadda
+# this is a test readme lorem ipsum yadda yadda yadda
+# Added test text
